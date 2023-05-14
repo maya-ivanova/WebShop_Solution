@@ -1,0 +1,15 @@
+C:\Users\kalin\source\repos\WebShop.Core\bin\Debug\net6.0\Data\products.json
+C:\Users\kalin\source\repos\WebShop.Core\bin\Debug\net6.0\WebShop.Core.deps.json
+C:\Users\kalin\source\repos\WebShop.Core\bin\Debug\net6.0\WebShop.Core.dll
+C:\Users\kalin\source\repos\WebShop.Core\bin\Debug\net6.0\WebShop.Core.pdb
+C:\Users\kalin\source\repos\WebShop.Core\obj\Debug\net6.0\WebShop.Core.csproj.AssemblyReference.cache
+C:\Users\kalin\source\repos\WebShop.Core\obj\Debug\net6.0\WebShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalin\source\repos\WebShop.Core\obj\Debug\net6.0\WebShop.Core.AssemblyInfoInputs.cache
+C:\Users\kalin\source\repos\WebShop.Core\obj\Debug\net6.0\WebShop.Core.AssemblyInfo.cs
+C:\Users\kalin\source\repos\WebShop.Core\obj\Debug\net6.0\WebShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\kalin\source\repos\WebShop.Core\obj\Debug\net6.0\WebShop.Core.dll
+C:\Users\kalin\source\repos\WebShop.Core\obj\Debug\net6.0\refint\WebShop.Core.dll
+C:\Users\kalin\source\repos\WebShop.Core\obj\Debug\net6.0\WebShop.Core.pdb
+C:\Users\kalin\source\repos\WebShop.Core\obj\Debug\net6.0\ref\WebShop.Core.dll
+C:\Users\kalin\source\repos\WebShop.Core\bin\Debug\net6.0\WebShop.Core.runtimeconfig.json
+C:\Users\kalin\source\repos\WebShop.Core\obj\Debug\net6.0\WebShop.Core.genruntimeconfig.cache
